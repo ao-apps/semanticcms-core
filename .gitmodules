@@ -1,0 +1,15 @@
+[submodule "semanticcms-core-model"]
+	path = semanticcms-core-model
+	url = git@github.com:aoindustries/semanticcms-core-model.git
+[submodule "semanticcms-core-servlet"]
+	path = semanticcms-core-servlet
+	url = git@github.com:aoindustries/semanticcms-core-servlet.git
+[submodule "semanticcms-core-style"]
+	path = semanticcms-core-style
+	url = git@github.com:aoindustries/semanticcms-core-style.git
+[submodule "semanticcms-core-taglib"]
+	path = semanticcms-core-taglib
+	url = git@github.com:aoindustries/semanticcms-core-taglib.git
+[submodule "semanticcms-core-view-content"]
+	path = semanticcms-core-view-content
+	url = git@github.com:aoindustries/semanticcms-core-view-content.git
