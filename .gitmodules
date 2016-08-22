@@ -13,3 +13,6 @@
 [submodule "semanticcms-core-view-content"]
 	path = semanticcms-core-view-content
 	url = git@github.com:aoindustries/semanticcms-core-view-content.git
+[submodule "semanticcms-core-docs"]
+	path = semanticcms-core-docs
+	url = git@github.com:aoindustries/semanticcms-core-docs.git
