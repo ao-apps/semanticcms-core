@@ -19,3 +19,6 @@
 [submodule "semanticcms-core-all"]
 	path = semanticcms-core-all
 	url = git@github.com:aoindustries/semanticcms-core-all.git
+[submodule "semanticcms-core-theme-base"]
+	path = semanticcms-core-theme-base
+	url = git@github.com:aoindustries/semanticcms-core-theme-base.git
