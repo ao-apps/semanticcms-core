@@ -51,6 +51,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<module>semanticcms-core-docs</module>
 		<module>semanticcms-core-model</module>
 		<module>semanticcms-core-servlet</module>
+		<module>semanticcms-core-sitemap</module>
 		<module>semanticcms-core-style</module>
 		<module>semanticcms-core-taglib</module>
 		<module>semanticcms-core-theme-base</module>
