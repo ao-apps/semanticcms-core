@@ -3,7 +3,7 @@ Parent POM for Java API for modeling web page content and relationships.
 
 ## Project Links
 * [Project Home](https://semanticcms.com/core/)
-* [Maven Central Repository](http://search.maven.org/#search|gav|1|g:%22com.semanticcms%22%20AND%20a:%22semanticcms-core%22)
+* [Maven Central Repository](https://search.maven.org/#search|gav|1|g:%22com.semanticcms%22%20AND%20a:%22semanticcms-core%22)
 * [GitHub](https://github.com/aoindustries/semanticcms-core)
 
 ## Modules
