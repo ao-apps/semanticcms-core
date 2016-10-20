@@ -25,3 +25,6 @@
 [submodule "semanticcms-core-sitemap"]
 	path = semanticcms-core-sitemap
 	url = git@github.com:aoindustries/semanticcms-core-sitemap.git
+[submodule "semanticcms-core-breadcrumblist-json-ld"]
+	path = semanticcms-core-breadcrumblist-json-ld
+	url = git@github.com:aoindustries/semanticcms-core-breadcrumblist-json-ld

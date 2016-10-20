@@ -9,6 +9,7 @@ Parent POM for Java API for modeling web page content and relationships.
 ## Modules
 * [SemanticCMS Core All](https://semanticcms.com/core/all/)
 * [SemanticCMS Core Book](https://semanticcms.com/core/book/)
+* [SemanticCMS Core BreadcrumbList JSON-LD](https://semanticcms.com/core/breadcrumblist-json-ld/)
 * [SemanticCMS Core Docs](https://semanticcms.com/core/docs/)
 * [SemanticCMS Core Model](https://semanticcms.com/core/model/)
 * [SemanticCMS Core Servlet](https://semanticcms.com/core/servlet/)
