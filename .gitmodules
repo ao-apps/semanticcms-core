@@ -28,3 +28,6 @@
 [submodule "semanticcms-core-breadcrumblist-json-ld"]
 	path = semanticcms-core-breadcrumblist-json-ld
 	url = git@github.com:aoindustries/semanticcms-core-breadcrumblist-json-ld
+[submodule "semanticcms-core-canonical"]
+	path = semanticcms-core-canonical
+	url = git@github.com:aoindustries/semanticcms-core-canonical

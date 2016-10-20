@@ -50,6 +50,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 	<modules>
 		<module>semanticcms-core-all</module>
 		<module>semanticcms-core-breadcrumblist-json-ld</module>
+		<module>semanticcms-core-canonical</module>
 		<module>semanticcms-core-docs</module>
 		<module>semanticcms-core-model</module>
 		<module>semanticcms-core-servlet</module>
