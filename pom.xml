@@ -38,6 +38,9 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 	<properties>
 		<bookPath>/core</bookPath>
 		<shortTitle>Core</shortTitle>
+		<javadoc.breadcrumbs><![CDATA[<a target="_top" href="${project.parent.parent.url}">${project.parent.parent.name}</a>
+/ <a target="_top" href="${project.parent.url}">Core</a>
+/ <a target="_top" href="${project.url}">${shortTitle}</a>]]></javadoc.breadcrumbs>
 	</properties>
 
 	<name>SemanticCMS Core</name>
