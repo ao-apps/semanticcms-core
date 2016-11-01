@@ -57,16 +57,16 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 	</scm>
 
 	<modules>
-		<module>semanticcms-core-all</module>
-		<module>semanticcms-core-breadcrumblist-json-ld</module>
-		<module>semanticcms-core-canonical</module>
-		<module>semanticcms-core-docs</module>
-		<module>semanticcms-core-model</module>
-		<module>semanticcms-core-servlet</module>
-		<module>semanticcms-core-sitemap</module>
-		<module>semanticcms-core-style</module>
-		<module>semanticcms-core-taglib</module>
-		<module>semanticcms-core-theme-base</module>
-		<module>semanticcms-core-view-content</module>
+		<module>all</module>
+		<module>breadcrumblist-json-ld</module>
+		<module>canonical</module>
+		<module>docs</module>
+		<module>model</module>
+		<module>servlet</module>
+		<module>sitemap</module>
+		<module>style</module>
+		<module>taglib</module>
+		<module>theme-base</module>
+		<module>view-content</module>
 	</modules>
 </project>
