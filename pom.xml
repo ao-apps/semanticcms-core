@@ -57,6 +57,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 	</scm>
 
 	<modules>
+		<!-- TODO: permalinks / persistent urls based on 256-bit generated ids -->
 		<module>all</module>
 		<module>breadcrumblist-json-ld</module>
 		<module>canonical</module>
