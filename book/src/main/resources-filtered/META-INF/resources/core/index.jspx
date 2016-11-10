@@ -48,7 +48,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<core:child book="/core/theme-base" page="/index.jspx" />
 		<core:child book="/core/view-content" page="/index.jspx" />
 		<p>
-			@{description.html}
+			@{documented.description}
 		</p>
 		<section:section label="Project Links">
 			<ul>
