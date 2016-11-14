@@ -1,5 +1,5 @@
 # [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [SemanticCMS](https://semanticcms.com/) / [Core](https://semanticcms.com/core/)
-Parent POM for Java API for modeling web page content and relationships.
+Aggregator POM for Java API for modeling web page content and relationships.
 
 ## Project Links
 * [Project Home](https://semanticcms.com/core/)

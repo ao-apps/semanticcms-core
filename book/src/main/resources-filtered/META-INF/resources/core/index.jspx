@@ -1,5 +1,5 @@
 <!--
-semanticcms-core - Parent POM for Java API for modeling web page content and relationships.
+semanticcms-core - Aggregator POM for Java API for modeling web page content and relationships.
 Copyright (C) 2016  AO Industries, Inc.
     support@aoindustries.com
     7262 Bull Pen Cir
@@ -33,7 +33,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2016-10-18T18:08:00-0500"
-		dateModified="2016-10-28T00:11:09-0500"
+		dateModified="2016-11-13T23:56:09-0600"
 	>
 		<core:child page="changelog.jspx" />
 		<core:child book="/core/all" page="/index.jspx" />
