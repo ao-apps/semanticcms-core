@@ -33,7 +33,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 
 	<groupId>com.semanticcms</groupId>
 	<artifactId>semanticcms-core</artifactId>
-	<version>1.5.3-SNAPSHOT</version>
+	<version>1.5.3-validation-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>SemanticCMS Core</name>
