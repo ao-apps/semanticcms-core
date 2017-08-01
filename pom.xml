@@ -27,13 +27,13 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 	<parent>
 		<groupId>com.semanticcms</groupId>
 		<artifactId>semanticcms-parent</artifactId>
-		<version>1.0.2-SNAPSHOT</version>
+		<version>2.0.0-SNAPSHOT</version>
 		<relativePath>../parent/pom.xml</relativePath>
 	</parent>
 
 	<groupId>com.semanticcms</groupId>
 	<artifactId>semanticcms-core</artifactId>
-	<version>1.5.3-validation-SNAPSHOT</version>
+	<version>2.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<name>SemanticCMS Core</name>
@@ -62,6 +62,12 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<module>docs/book</module>
 		<module>model</module>
 		<module>model/book</module>
+		<module>repository</module>
+		<module>repository/book</module>
+		<module>repository-local</module>
+		<module>repository-local/book</module>
+		<module>repository-missing</module>
+		<module>repository-missing/book</module>
 		<module>servlet</module>
 		<module>servlet/book</module>
 		<module>sitemap</module>
