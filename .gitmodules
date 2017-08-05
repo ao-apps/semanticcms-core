@@ -40,3 +40,9 @@
 [submodule "repository-missing"]
 	path = repository-missing
 	url = git@github.com:aoindustries/semanticcms-core-repository-missing
+[submodule "resources"]
+	path = resources
+	url = git@github.com:aoindustries/semanticcms-core-resources.git
+[submodule "resources-servlet"]
+	path = resources-servlet
+	url = git@github.com:aoindustries/semanticcms-core-resources-servlet.git
