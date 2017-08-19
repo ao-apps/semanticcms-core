@@ -31,15 +31,6 @@
 [submodule "view-content"]
 	path = view-content
 	url = git@github.com:aoindustries/semanticcms-core-view-content.git
-[submodule "repository"]
-	path = repository
-	url = git@github.com:aoindustries/semanticcms-core-repository
-[submodule "repository-local"]
-	path = repository-local
-	url = git@github.com:aoindustries/semanticcms-core-repository-local
-[submodule "repository-missing"]
-	path = repository-missing
-	url = git@github.com:aoindustries/semanticcms-core-repository-missing
 [submodule "resources"]
 	path = resources
 	url = git@github.com:aoindustries/semanticcms-core-resources.git
