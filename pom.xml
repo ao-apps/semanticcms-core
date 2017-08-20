@@ -62,12 +62,10 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<module>docs/book</module>
 		<module>model</module>
 		<module>model/book</module>
-		<module>repository</module>
-		<module>repository/book</module>
-		<module>repository-local</module>
-		<module>repository-local/book</module>
-		<module>repository-missing</module>
-		<module>repository-missing/book</module>
+		<module>pages</module>
+		<module>pages/book</module>
+		<module>pages-servlet</module>
+		<module>pages-servlet/book</module>
 		<module>resources</module>
 		<module>resources/book</module>
 		<module>resources-servlet</module>

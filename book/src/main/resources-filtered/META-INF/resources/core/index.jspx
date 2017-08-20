@@ -34,7 +34,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2016-10-18T18:08:00-0500"
-		dateModified="2017-08-04T14:52:12-0500"
+		dateModified="2017-08-19T18:57:56-0500"
 	>
 		<core:child page="changelog.jspx" />
 		<core:child book="/core/all" page="/index.jspx" />
@@ -42,7 +42,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<core:child book="/core/canonical" page="/index.jspx" />
 		<core:child book="/core/docs" page="/index.jspx" />
 		<core:child book="/core/model" page="/index.jspx" />
-		<core:child book="/core/repository" page="/index.jspx" />
+		<core:child book="/core/pages" page="/index.jspx" />
 		<core:child book="/core/resources" page="/index.jspx" />
 		<core:child book="/core/servlet" page="/index.jspx" />
 		<core:child book="/core/sitemap" page="/index.jspx" />
@@ -76,7 +76,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 				<li><core:link book="/core/canonical" page="/index.jspx" /></li>
 				<li><core:link book="/core/docs" page="/index.jspx" /></li>
 				<li><core:link book="/core/model" page="/index.jspx" /></li>
-				<li><core:link book="/core/repository" page="/index.jspx" /></li>
+				<li><core:link book="/core/pages" page="/index.jspx" /></li>
 				<li><core:link book="/core/resources" page="/index.jspx" /></li>
 				<li><core:link book="/core/servlet" page="/index.jspx" /></li>
 				<li><core:link book="/core/sitemap" page="/index.jspx" /></li>

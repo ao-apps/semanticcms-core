@@ -37,3 +37,9 @@
 [submodule "resources-servlet"]
 	path = resources-servlet
 	url = git@github.com:aoindustries/semanticcms-core-resources-servlet.git
+[submodule "pages"]
+	path = pages
+	url = git@github.com:aoindustries/semanticcms-core-pages.git
+[submodule "pages-servlet"]
+	path = pages-servlet
+	url = git@github.com:aoindustries/semanticcms-core-pages-servlet.git
