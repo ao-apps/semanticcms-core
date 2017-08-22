@@ -43,3 +43,12 @@
 [submodule "pages-servlet"]
 	path = pages-servlet
 	url = git@github.com:aoindustries/semanticcms-core-pages-servlet.git
+[submodule "pages-jsp"]
+	path = pages-jsp
+	url = git@github.com:aoindustries/semanticcms-core-pages-jsp.git
+[submodule "pages-jspx"]
+	path = pages-jspx
+	url = git@github.com:aoindustries/semanticcms-core-pages-jspx.git
+[submodule "pages-union"]
+	path = pages-union
+	url = git@github.com:aoindustries/semanticcms-core-pages-union.git
