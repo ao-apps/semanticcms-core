@@ -64,8 +64,14 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<module>model/book</module>
 		<module>pages</module>
 		<module>pages/book</module>
+		<module>pages-jsp</module>
+		<module>pages-jsp/book</module>
+		<module>pages-jspx</module>
+		<module>pages-jspx/book</module>
 		<module>pages-servlet</module>
 		<module>pages-servlet/book</module>
+		<module>pages-union</module>
+		<module>pages-union/book</module>
 		<module>resources</module>
 		<module>resources/book</module>
 		<module>resources-servlet</module>
