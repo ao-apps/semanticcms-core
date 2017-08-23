@@ -68,6 +68,8 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<module>pages-jsp/book</module>
 		<module>pages-jspx</module>
 		<module>pages-jspx/book</module>
+		<module>pages-local</module>
+		<module>pages-local/book</module>
 		<module>pages-servlet</module>
 		<module>pages-servlet/book</module>
 		<module>pages-union</module>
