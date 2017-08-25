@@ -55,3 +55,12 @@
 [submodule "pages-local"]
 	path = pages-local
 	url = git@github.com:aoindustries/semanticcms-core-pages-local.git
+[submodule "renderer"]
+	path = renderer
+	url = git@github.com:aoindustries/semanticcms-core-renderer.git
+[submodule "renderer-servlet"]
+	path = renderer-servlet
+	url = git@github.com:aoindustries/semanticcms-core-renderer-servlet.git
+[submodule "renderer-html"]
+	path = renderer-html
+	url = git@github.com:aoindustries/semanticcms-core-renderer-html.git

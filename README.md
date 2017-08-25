@@ -34,6 +34,7 @@ Aggregator POM for Java API for modeling web page content and relationships.
 * [SemanticCMS Core Docs](https://semanticcms.com/core/docs/)
 * [SemanticCMS Core Model](https://semanticcms.com/core/model/)
 * [SemanticCMS Core Pages](https://semanticcms.com/core/pages/)
+* [SemanticCMS Core Renderer](https://semanticcms.com/core/renderer/)
 * [SemanticCMS Core Resources](https://semanticcms.com/core/resources/)
 * [SemanticCMS Core Servlet](https://semanticcms.com/core/servlet/)
 * [SemanticCMS Core Sitemap](https://semanticcms.com/core/sitemap/)
