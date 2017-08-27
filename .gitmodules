@@ -64,3 +64,6 @@
 [submodule "renderer-html"]
 	path = renderer-html
 	url = git@github.com:aoindustries/semanticcms-core-renderer-html.git
+[submodule "controller"]
+	path = controller
+	url = git@github.com:aoindustries/semanticcms-core-controller.git

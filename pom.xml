@@ -58,6 +58,8 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<module>breadcrumblist-json-ld/book</module>
 		<module>canonical</module>
 		<module>canonical/book</module>
+		<module>controller</module>
+		<module>controller/book</module>
 		<module>docs</module>
 		<module>docs/book</module>
 		<module>model</module>

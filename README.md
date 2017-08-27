@@ -31,6 +31,7 @@ Aggregator POM for Java API for modeling web page content and relationships.
 * [SemanticCMS Core Book](https://semanticcms.com/core/book/)
 * [SemanticCMS Core BreadcrumbList JSON-LD](https://semanticcms.com/core/breadcrumblist-json-ld/)
 * [SemanticCMS Core Canonical](https://semanticcms.com/core/canonical/)
+* [SemanticCMS Core Controller](https://semanticcms.com/core/controller/)
 * [SemanticCMS Core Docs](https://semanticcms.com/core/docs/)
 * [SemanticCMS Core Model](https://semanticcms.com/core/model/)
 * [SemanticCMS Core Pages](https://semanticcms.com/core/pages/)
