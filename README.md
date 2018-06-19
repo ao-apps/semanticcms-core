@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [SemanticCMS](https://semanticcms.com/) / [Core](https://semanticcms.com/core/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [SemanticCMS](https://github.com/aoindustries/semanticcms) / [Core](https://github.com/aoindustries/semanticcms-core)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-current-stable">
 		<img src="https://semanticcms.com/ao-badges/project-current-stable.svg" alt="project: current stable" />
@@ -27,22 +27,21 @@ Aggregator POM for Java API for modeling web page content and relationships.
 * [GitHub](https://github.com/aoindustries/semanticcms-core)
 
 ## Modules
-* [SemanticCMS Core All](https://semanticcms.com/core/all/)
-* [SemanticCMS Core Book](https://semanticcms.com/core/book/)
-* [SemanticCMS Core BreadcrumbList JSON-LD](https://semanticcms.com/core/breadcrumblist-json-ld/)
-* [SemanticCMS Core Canonical](https://semanticcms.com/core/canonical/)
-* [SemanticCMS Core Controller](https://semanticcms.com/core/controller/)
-* [SemanticCMS Core Docs](https://semanticcms.com/core/docs/)
-* [SemanticCMS Core Model](https://semanticcms.com/core/model/)
-* [SemanticCMS Core Pages](https://semanticcms.com/core/pages/)
-* [SemanticCMS Core Renderer](https://semanticcms.com/core/renderer/)
-* [SemanticCMS Core Resources](https://semanticcms.com/core/resources/)
-* [SemanticCMS Core Servlet](https://semanticcms.com/core/servlet/)
-* [SemanticCMS Core Sitemap](https://semanticcms.com/core/sitemap/)
-* [SemanticCMS Core Style](https://semanticcms.com/core/style/)
-* [SemanticCMS Core Taglib](https://semanticcms.com/core/taglib/)
-* [SemanticCMS Core Theme Base](https://semanticcms.com/core/theme-base/)
-* [SemanticCMS Core View Content](https://semanticcms.com/core/view-content/)
+* [SemanticCMS Core All](https://github.com/aoindustries/semanticcms-core-all)
+* [SemanticCMS Core BreadcrumbList JSON-LD](https://github.com/aoindustries/semanticcms-core-breadcrumblist-json-ld)
+* [SemanticCMS Core Canonical](https://github.com/aoindustries/semanticcms-core-canonical)
+* [SemanticCMS Core Controller](https://github.com/aoindustries/semanticcms-core-controller)
+* [SemanticCMS Core Docs](https://github.com/aoindustries/semanticcms-core-docs)
+* [SemanticCMS Core Model](https://github.com/aoindustries/semanticcms-core-model)
+* [SemanticCMS Core Pages](https://github.com/aoindustries/semanticcms-core-pages)
+* [SemanticCMS Core Renderer](https://github.com/aoindustries/semanticcms-core-renderer)
+* [SemanticCMS Core Resources](https://github.com/aoindustries/semanticcms-core-resources)
+* [SemanticCMS Core Servlet](https://github.com/aoindustries/semanticcms-core-servlet)
+* [SemanticCMS Core Sitemap](https://github.com/aoindustries/semanticcms-core-sitemap)
+* [SemanticCMS Core Style](https://github.com/aoindustries/semanticcms-core-style)
+* [SemanticCMS Core Taglib](https://github.com/aoindustries/semanticcms-core-taglib)
+* [SemanticCMS Core Theme Base](https://github.com/aoindustries/semanticcms-core-theme-base)
+* [SemanticCMS Core View Content](https://github.com/aoindustries/semanticcms-core-view-content)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
