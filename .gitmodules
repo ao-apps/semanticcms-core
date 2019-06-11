@@ -31,3 +31,6 @@
 [submodule "view-content"]
 	path = view-content
 	url = git@github.com:aoindustries/semanticcms-core-view-content.git
+[submodule "bom"]
+	path = bom
+	url = git@aoindustries.github.com:aoindustries/semanticcms-core-bom.git

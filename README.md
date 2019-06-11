@@ -27,6 +27,7 @@ Aggregator POM for Java API for modeling web page content and relationships.
 * [GitHub](https://github.com/aoindustries/semanticcms-core)
 
 ## Modules
+* [SemanticCMS Core BOM](https://github.com/aoindustries/semanticcms-core-bom)
 * [SemanticCMS Core All](https://github.com/aoindustries/semanticcms-core-all)
 * [SemanticCMS Core BreadcrumbList JSON-LD](https://github.com/aoindustries/semanticcms-core-breadcrumblist-json-ld)
 * [SemanticCMS Core Canonical](https://github.com/aoindustries/semanticcms-core-canonical)

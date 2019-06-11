@@ -48,10 +48,8 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 	<modules>
 		<!-- TODO: permalinks / persistent urls based on 256-bit generated ids -->
 		<module>book</module>
-		<!-- TODO:
 		<module>bom</module>
 		<module>bom/book</module>
-		-->
 		<module>all</module>
 		<module>all/book</module>
 		<module>breadcrumblist-json-ld</module>
