@@ -67,3 +67,6 @@
 [submodule "controller"]
 	path = controller
 	url = git@github.com:aoindustries/semanticcms-core-controller.git
+[submodule "bom"]
+	path = bom
+	url = git@aoindustries.github.com:aoindustries/semanticcms-core-bom.git
