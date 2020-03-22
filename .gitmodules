@@ -1,36 +1,48 @@
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/semanticcms-core-all.git
+	branch = .
 [submodule "breadcrumblist-json-ld"]
 	path = breadcrumblist-json-ld
 	url = git@github.com:aoindustries/semanticcms-core-breadcrumblist-json-ld.git
+	branch = .
 [submodule "canonical"]
 	path = canonical
 	url = git@github.com:aoindustries/semanticcms-core-canonical.git
+	branch = .
 [submodule "docs"]
 	path = docs
 	url = git@github.com:aoindustries/semanticcms-core-docs.git
+	branch = .
 [submodule "model"]
 	path = model
 	url = git@github.com:aoindustries/semanticcms-core-model.git
+	branch = .
 [submodule "servlet"]
 	path = servlet
 	url = git@github.com:aoindustries/semanticcms-core-servlet.git
+	branch = .
 [submodule "sitemap"]
 	path = sitemap
 	url = git@github.com:aoindustries/semanticcms-core-sitemap.git
+	branch = .
 [submodule "style"]
 	path = style
 	url = git@github.com:aoindustries/semanticcms-core-style.git
+	branch = .
 [submodule "taglib"]
 	path = taglib
 	url = git@github.com:aoindustries/semanticcms-core-taglib.git
+	branch = .
 [submodule "theme-base"]
 	path = theme-base
 	url = git@github.com:aoindustries/semanticcms-core-theme-base.git
+	branch = .
 [submodule "view-content"]
 	path = view-content
 	url = git@github.com:aoindustries/semanticcms-core-view-content.git
+	branch = .
 [submodule "bom"]
 	path = bom
 	url = git@aoindustries.github.com:aoindustries/semanticcms-core-bom.git
+	branch = .
