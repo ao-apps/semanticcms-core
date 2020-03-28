@@ -45,6 +45,11 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<tag>HEAD</tag>
 	</scm>
 
+	<issueManagement>
+		<system>GitHub Issues</system>
+		<url>https://github.com/aoindustries/semanticcms-core/issues</url>
+	</issueManagement>
+
 	<modules>
 		<!-- TODO: permalinks / persistent urls based on 256-bit generated ids -->
 		<module>book</module>
