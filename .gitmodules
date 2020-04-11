@@ -1,3 +1,7 @@
+[submodule "bom"]
+	path = bom
+	url = git@github.com:aoindustries/semanticcms-core-bom.git
+	branch = .
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/semanticcms-core-all.git
@@ -10,6 +14,10 @@
 	path = canonical
 	url = git@github.com:aoindustries/semanticcms-core-canonical.git
 	branch = .
+[submodule "controller"]
+	path = controller
+	url = git@github.com:aoindustries/semanticcms-core-controller.git
+	branch = .
 [submodule "docs"]
 	path = docs
 	url = git@github.com:aoindustries/semanticcms-core-docs.git
@@ -17,6 +25,50 @@
 [submodule "model"]
 	path = model
 	url = git@github.com:aoindustries/semanticcms-core-model.git
+	branch = .
+[submodule "pages"]
+	path = pages
+	url = git@github.com:aoindustries/semanticcms-core-pages.git
+	branch = .
+[submodule "pages-jsp"]
+	path = pages-jsp
+	url = git@github.com:aoindustries/semanticcms-core-pages-jsp.git
+	branch = .
+[submodule "pages-jspx"]
+	path = pages-jspx
+	url = git@github.com:aoindustries/semanticcms-core-pages-jspx.git
+	branch = .
+[submodule "pages-local"]
+	path = pages-local
+	url = git@github.com:aoindustries/semanticcms-core-pages-local.git
+	branch = .
+[submodule "pages-servlet"]
+	path = pages-servlet
+	url = git@github.com:aoindustries/semanticcms-core-pages-servlet.git
+	branch = .
+[submodule "pages-union"]
+	path = pages-union
+	url = git@github.com:aoindustries/semanticcms-core-pages-union.git
+	branch = .
+[submodule "renderer"]
+	path = renderer
+	url = git@github.com:aoindustries/semanticcms-core-renderer.git
+	branch = .
+[submodule "renderer-html"]
+	path = renderer-html
+	url = git@github.com:aoindustries/semanticcms-core-renderer-html.git
+	branch = .
+[submodule "renderer-servlet"]
+	path = renderer-servlet
+	url = git@github.com:aoindustries/semanticcms-core-renderer-servlet.git
+	branch = .
+[submodule "resources"]
+	path = resources
+	url = git@github.com:aoindustries/semanticcms-core-resources.git
+	branch = .
+[submodule "resources-servlet"]
+	path = resources-servlet
+	url = git@github.com:aoindustries/semanticcms-core-resources-servlet.git
 	branch = .
 [submodule "servlet"]
 	path = servlet
@@ -41,56 +93,4 @@
 [submodule "view-content"]
 	path = view-content
 	url = git@github.com:aoindustries/semanticcms-core-view-content.git
-	branch = .
-[submodule "resources"]
-	path = resources
-	url = git@github.com:aoindustries/semanticcms-core-resources.git
-	branch = .
-[submodule "resources-servlet"]
-	path = resources-servlet
-	url = git@github.com:aoindustries/semanticcms-core-resources-servlet.git
-	branch = .
-[submodule "pages"]
-	path = pages
-	url = git@github.com:aoindustries/semanticcms-core-pages.git
-	branch = .
-[submodule "pages-servlet"]
-	path = pages-servlet
-	url = git@github.com:aoindustries/semanticcms-core-pages-servlet.git
-	branch = .
-[submodule "pages-jsp"]
-	path = pages-jsp
-	url = git@github.com:aoindustries/semanticcms-core-pages-jsp.git
-	branch = .
-[submodule "pages-jspx"]
-	path = pages-jspx
-	url = git@github.com:aoindustries/semanticcms-core-pages-jspx.git
-	branch = .
-[submodule "pages-union"]
-	path = pages-union
-	url = git@github.com:aoindustries/semanticcms-core-pages-union.git
-	branch = .
-[submodule "pages-local"]
-	path = pages-local
-	url = git@github.com:aoindustries/semanticcms-core-pages-local.git
-	branch = .
-[submodule "renderer"]
-	path = renderer
-	url = git@github.com:aoindustries/semanticcms-core-renderer.git
-	branch = .
-[submodule "renderer-servlet"]
-	path = renderer-servlet
-	url = git@github.com:aoindustries/semanticcms-core-renderer-servlet.git
-	branch = .
-[submodule "renderer-html"]
-	path = renderer-html
-	url = git@github.com:aoindustries/semanticcms-core-renderer-html.git
-	branch = .
-[submodule "controller"]
-	path = controller
-	url = git@github.com:aoindustries/semanticcms-core-controller.git
-	branch = .
-[submodule "bom"]
-	path = bom
-	url = git@aoindustries.github.com:aoindustries/semanticcms-core-bom.git
 	branch = .
