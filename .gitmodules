@@ -1,3 +1,7 @@
+[submodule "bom"]
+	path = bom
+	url = git@github.com:aoindustries/semanticcms-core-bom.git
+	branch = .
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/semanticcms-core-all.git
@@ -41,8 +45,4 @@
 [submodule "view-content"]
 	path = view-content
 	url = git@github.com:aoindustries/semanticcms-core-view-content.git
-	branch = .
-[submodule "bom"]
-	path = bom
-	url = git@aoindustries.github.com:aoindustries/semanticcms-core-bom.git
 	branch = .
