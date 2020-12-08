@@ -37,7 +37,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="Changelog"
 		tocLevels="1"
 		datePublished="2016-10-30T16:23:57-0500"
-		dateModified="2020-12-08T11:38:31-06:00"
+		dateModified="2020-12-08T12:00:30-06:00"
 	>
 		<c:if test="${fn:endsWith('@{project.version}', '-SNAPSHOT') and !fn:endsWith('@{project.version}', '-POST-SNAPSHOT')}">
 			<changelog:release
@@ -76,6 +76,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 			<ul>
 				<li>Updated version of <core:link book="/core/bom" page="/index.jspx" />.</li>
 				<li>Updated version of <core:link book="/core/all" page="/index.jspx" />.</li>
+				<li>Updated version of <core:link book="/core/docs" page="/index.jspx" />.</li>
 				<li>Updated version of <core:link book="/core/model" page="/index.jspx" />.</li>
 				<li>Updated version of <core:link book="/core/servlet" page="/index.jspx" />.</li>
 				<li>Updated version of <core:link book="/core/taglib" page="/index.jspx" />.</li>
