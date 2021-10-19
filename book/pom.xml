@@ -29,7 +29,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<relativePath>../../parent/pom.xml</relativePath>
 	</parent>
 
-	<groupId>com.semanticcms</groupId><artifactId>semanticcms-core-book</artifactId><version>1.12.1-SNAPSHOT</version>
+	<groupId>com.semanticcms</groupId><artifactId>semanticcms-core-book</artifactId><version>1.12.1</version>
 	<packaging>bundle</packaging>
 
 	<properties>
@@ -74,7 +74,7 @@ along with semanticcms-core.  If not, see <http://www.gnu.org/licenses />.
 		<connection>scm:git:git://github.com/ao-apps/semanticcms-core.git</connection>
 		<developerConnection>scm:git:git@github.com:ao-apps/semanticcms-core.git</developerConnection>
 		<url>https://github.com/ao-apps/semanticcms-core</url>
-		<tag>HEAD</tag>
+		<tag>semanticcms-core-book-1.12.1</tag>
 	</scm>
 
 	<issueManagement>
