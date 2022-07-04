@@ -156,7 +156,6 @@ along with semanticcms-core.  If not, see <https://www.gnu.org/licenses/>.
       <ul>
         <li>Updated version of <core:link book="/core/bom" page="/" />.</li>
         <li>Updated version of <core:link book="/core/all" page="/" />.</li>
-        <li>Updated version of <core:link book="/core/docs" page="/" />.</li>
         <li>Updated version of <core:link book="/core/servlet" page="/" />.</li>
         <li>Updated version of <core:link book="/core/taglib" page="/" />.</li>
       </ul>
@@ -173,6 +172,7 @@ along with semanticcms-core.  If not, see <https://www.gnu.org/licenses/>.
       <ul>
         <li>Updated version of <core:link book="/core/bom" page="/" />.</li>
         <li>Updated version of <core:link book="/core/all" page="/" />.</li>
+        <li>Updated version of <core:link book="/core/docs" page="/" />.</li>
         <li>Updated version of <core:link book="/core/model" page="/" />.</li>
         <li>Updated version of <core:link book="/core/servlet" page="/" />.</li>
         <li>Updated version of <core:link book="/core/taglib" page="/" />.</li>
