@@ -32,9 +32,6 @@ along with semanticcms-core.  If not, see <https://www.gnu.org/licenses/>.
   <groupId>com.semanticcms</groupId><artifactId>semanticcms-core</artifactId><version>2.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <properties>
-  </properties>
-
   <name>SemanticCMS Core</name>
   <url>https://semanticcms.com/core/</url>
   <description>Aggregator POM for Java API for modeling web page content and relationships.</description>
