@@ -32,6 +32,11 @@ along with semanticcms-core.  If not, see <https://www.gnu.org/licenses/>.
   <groupId>com.semanticcms</groupId><artifactId>semanticcms-core</artifactId><version>1.13.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
+  <properties>
+    <!-- Must be set to ${git.commit.time} for snapshots or ISO 8601 timestamp for releases. -->
+    <project.build.outputTimestamp>${git.commit.time}</project.build.outputTimestamp>
+  </properties>
+
   <name>SemanticCMS Core</name>
   <url>https://semanticcms.com/core/</url>
   <description>Aggregator POM for Java API for modeling web page content and relationships.</description>
