@@ -19,7 +19,7 @@ Aggregator POM for Java API for modeling web page content and relationships.
 ## Project Links
 * [Project Home](https://semanticcms.com/core/)
 * [Changelog](https://semanticcms.com/core/changelog)
-* [Maven Central Repository](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-core)
+* [Central Repository](https://central.sonatype.com/artifact/com.semanticcms/semanticcms-core)
 * [GitHub](https://github.com/ao-apps/semanticcms-core)
 
 ## Modules
